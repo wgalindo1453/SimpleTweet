@@ -1,4 +1,4 @@
-# Project 2 - *SimpleTweet* (part1)
+# Project 2 - *SimpleTweet* (part2)
 
 **SimpleTweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
@@ -7,7 +7,7 @@ Time spent: **6** hours spent in total
 ## User Stories
 
 The following **required** functionality is completed:
-PART 1
+## PART1
 
 
   - [X] User can **sign in to Twitter** using OAuth login
@@ -15,7 +15,7 @@ PART 1
   - [X] User is displayed the username, name, and body for each tweet
   - [X] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
   - [X] User can refresh tweets timeline by pulling down to refresh
-PART 2
+## PART2
 
 
   - [X] User can **compose and post a new tweet**
