@@ -8,12 +8,16 @@ Time spent: **6** hours spent in total
 
 The following **required** functionality is completed:
 PART 1
+
+
   - [X] User can **sign in to Twitter** using OAuth login
   - [X]	User can **view tweets from their home timeline**
   - [X] User is displayed the username, name, and body for each tweet
   - [X] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
   - [X] User can refresh tweets timeline by pulling down to refresh
 PART 2
+
+
   - [X] User can **compose and post a new tweet**
   - [X] User can click a “Compose” icon in the Action Bar on the top right
   - [X] User can then enter a new tweet and post this to twitter
@@ -37,7 +41,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 
-## Video Walkthrough
+## Video Walkthrough PART 1
 
 Here's a walkthrough of implemented user stories PART 1:
 
@@ -46,9 +50,11 @@ Here's a walkthrough of implemented user stories PART 1:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+## Video Walkthrough PART 2
+
 Here's a walkthrough of implemented user stories PART 2:
 
-<img src='https://imgur.com/a/g7sSruU' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='twitterAppPart2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
